@@ -5,7 +5,6 @@ install_system_updates(){
     echo "updating system."
     sudo apt-get update
     sudo apt-get upgrade -y
-    sudo apt-get update
     sudo apt-get install git -y
     sudo apt-get dist-upgrade -y --autoremove
 
