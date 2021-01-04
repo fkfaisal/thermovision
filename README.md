@@ -1,8 +1,8 @@
 # FeverDetector
 
 Detect people who have fevers with FLIR Lepton + PureThermal Smart I/O Module on Linux or Mac
-
-![Demo](images/demo.png)
+All these files are copied from following git:
+https://github.com/MakeHub-tw/FeverDetector
 
 ## Hardware requirements
 
@@ -33,9 +33,10 @@ If you are using Mac, make sure that homebrew is installed.
 
 ## Useful Links:
 
-- This application is modified from <https://github.com/Kheirlb/purethermal1-uvc-capture>
+- This application is modified from <https://github.com/Kheirlb/purethermal1-uvc-capture> and from https://github.com/MakeHub-tw/FeverDetector
 - A more complete and complex application implemented in CPP and Qt: <https://github.com/groupgets/GetThermal>
 
 ## Additional Comments:
 
-Special thanks to Parabilis Space Technologies, Jerry Pierre, the developers of GroupGets GetThermal and purethermal1-uvc-capture, and the Flir Community Forum who helped me achieve my goals in this project.
+All creidts goes to:
+https://github.com/MakeHub-tw/FeverDetector
