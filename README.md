@@ -1,6 +1,8 @@
 # FeverDetector
 
-Detect people who have fevers with FLIR Lepton + PureThermal Smart I/O Module on Linux or Mac
+Detect people who have fevers with FLIR Lepton + PureThermal Smart I/O Module on Linux or Mac.
+
+
 All these files are copied from following git:
 https://github.com/MakeHub-tw/FeverDetector
 
